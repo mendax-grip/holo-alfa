@@ -1,26 +1,25 @@
 
 # The name of your website.
-name: Holo Alfa
+name: The HouseBuilder
 
-description:
+description: Scribblings of Siddharth Kanungo !
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: I write stuffs that I wish to be seen by people at some point of time. This website facilitates the exchange of ideas. This line didn't turn up as expected.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
-
+  subtitle: My Scribblings about learning, life and society.
 author:
-  name: Dr. Jekyll # Change this!
+  name: Siddharth Kanungo # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: siddharth.soka@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
-  info:
+  info: Aspiring Deep Learning Researcher
 
-url: http://steinvc.github.io
+url: http://mendax-grip.github.io
 baseurl: "/holo-alfa"
 
 # language attribute in <html> element.
@@ -87,11 +86,11 @@ disqus-shortname:
 
 # Use a complete url here, including http:// and such. Requiring just usernames
 # has been considered, but this is way more customizable.
-twitter:
+twitter: Akohsha
 youtube:
 instagram:
 tumblr:
-facebook:
+facebook: disissid93
 google-plus:
 reddit:
 soundcloud:
@@ -134,7 +133,7 @@ var_your_message: Your message
 # You don't have to change these.
 
 exclude: [vendor]
-highlighter: pygments
+highlighter: rouge
 kramdown:
   input: GFM
 paginate_path: "/page-:num/"
